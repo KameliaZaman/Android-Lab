@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edt1" type="id" />
+    <item name="btnOne" type="id" />
+    <item name="btnTwo" type="id" />
+    <item name="btnThree" type="id" />
+    <item name="btnClear" type="id" />
+    <item name="btnEqual" type="id" />
+    <item name="btnAdd" type="id" />
+    <item name="btnFour" type="id" />
+    <item name="btnFive" type="id" />
+    <item name="btnSix" type="id" />
+    <item name="btnSub" type="id" />
+    <item name="btnSeven" type="id" />
+    <item name="btnEight" type="id" />
+    <item name="btnNine" type="id" />
+    <item name="btnZero" type="id" />
+    <item name="btnPi" type="id" />
+    <item name="btnDot" type="id" />
+    <item name="btnSquare" type="id" />
+    <item name="btnPow" type="id" />
+    <item name="btnSquareRoot" type="id" />
+    <item name="btnMod" type="id" />
+    <item name="btnSin" type="id" />
+    <item name="btnOneByX" type="id" />
+    <item name="btnCos" type="id" />
+    <item name="btnLn" type="id" />
+    <item name="btnLog" type="id" />
+    <item name="btnTenPowX" type="id" />
+    <item name="btnEPowX" type="id" />
+    <item name="btnTan" type="id" />
+    <item name="btnMul" type="id" />
+    <item name="btnDiv" type="id" />
+    <item name="btnAbsolute" type="id" />
+    <item name="btnFactorial" type="id" />
+    <item name="btnTwoPowX" type="id" />
+</resources>
